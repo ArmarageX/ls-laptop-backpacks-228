@@ -1,0 +1,30 @@
+{
+  "row": 228,
+  "provider": "Netlify",
+  "target": "https://lestallion.com/blogs/product-reviews/best-laptop-backpacks-for-professionals",
+  "prev": "https://filedn.com/lPEkuok4Iob58k2I4BeUPpF/lestallion/affiliate-backlinks/row227-time-management-planners/index.html",
+  "base": "https://ls-laptop-backpacks-228.netlify.app/",
+  "t1_url": "https://ls-laptop-backpacks-228.netlify.app/index.html",
+  "pages": [
+    "about.html",
+    "organization.html",
+    "privacy.html",
+    "value.html",
+    "commuter-fit.html",
+    "travel-ready.html",
+    "contact.html",
+    "materials.html",
+    "laptop-protection.html",
+    "index.html"
+  ],
+  "images": [
+    "image-8.webp",
+    "image-3.webp",
+    "image-2.webp",
+    "image-4.webp",
+    "image-5.webp",
+    "image-1.webp",
+    "image-6.webp",
+    "image-7.webp"
+  ]
+}
